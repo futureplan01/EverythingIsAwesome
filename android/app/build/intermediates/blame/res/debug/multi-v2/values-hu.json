@@ -4,23 +4,6 @@
             "outputFile": "C:\\Users\\Venoth\\Desktop\\JJ_THE_BEST\\EverythingIsAwesome\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Venoth\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.20.1.aar\\05714d3903b55c8b315b04d4a8e9d998\\res\\values-hu\\values-hu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,109,182,261,332,398,454,513",
-                        "endColumns": "53,72,78,70,65,55,58,73",
-                        "endOffsets": "104,177,256,327,393,449,508,582"
-                    },
-                    "to": {
-                        "startLines": "19,20,21,22,23,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1938,1992,2065,2144,2215,2281,2337,2396",
-                        "endColumns": "53,72,78,70,65,55,58,73",
-                        "endOffsets": "1987,2060,2139,2210,2276,2332,2391,2465"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Venoth\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\be9456e81701164b5676c1104b714a75\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
@@ -30,11 +13,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "28",
+                        "startLines": "20",
                         "startColumns": "4",
-                        "startOffsets": "2553",
+                        "startOffsets": "2021",
                         "endColumns": "100",
-                        "endOffsets": "2649"
+                        "endOffsets": "2117"
                     }
                 },
                 {
@@ -45,13 +28,6 @@
                         "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,1938",
                         "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
                         "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2016"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,27",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,213,318,433,517,629,759,835,911,994,1104,1215,1315,1426,1534,1653,1835,2470",
-                        "endColumns": "107,104,114,83,111,129,75,75,82,109,110,99,110,107,118,181,102,82",
-                        "endOffsets": "208,313,428,512,624,754,830,906,989,1099,1210,1310,1421,1529,1648,1830,1933,2548"
                     }
                 }
             ]
