@@ -1,12 +1,18 @@
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
+import { createStackNavigator, createAppContainer } from "react-navigation";
+import Welcome from "./Components/Welcome";
 
-export default class App extends React.Component {
+class App extends React.Component {
   render() {
-    return (
-      <View>
-        <Text>Hello, Welcome To My App</Text>
-      </View>
-    );
+    return <Welcome />;
   }
 }
+
+const AppNavigator = createStackNavigator({
+  Home: {
+    screen: App
+  }
+});
+
+export default createAppContainer(AppNavigator);

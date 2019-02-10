@@ -4,13 +4,26 @@ ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\s
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
 MERGED from [com.facebook.react:react-native:0.57.5] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\react-native-0.57.5.aar\d02c3b21f510a1e52f11ab95fec532f8\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bfdeb594c36ff88ce35de2edc5c5dc27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\a0d898e483823679c96cf7df0cf1d3c6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\efcc9a23c94e40e6b163feecbacef8b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6b4407203cddede948ba2fb9fc6f474e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\7c4d2380c7f034956b60356494635884\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\a3ede70328e85e2c6229a940881b3edd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\dcb123dbdded2656923b40bd9ba09f2d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a61d0fab24034f39033d94e33ebabf00\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a8a8bd9318275f614e44d45aecd7da0f\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\54ed245c72d2720beec248cfb2c58870\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\50193e23ce1cb84e282e8d1d6b9bc783\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\4590c75f490436c7054dd821f0ac3998\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4bb59c45df4840029506a8416b1dc263\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7cf34d8ed9b779e384ce52c641f5f57e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d64ff019d7d4dddd788daf81770d68dd\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\be9456e81701164b5676c1104b714a75\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\04063822a7e33a9ddcb223e083eb73a5\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\e2e301203bcf26d21ec43fe6208c7ecc\AndroidManifest.xml:2:1-9:12
@@ -55,6 +68,20 @@ application
 ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:7:5-24:19
 MERGED from [com.facebook.react:react-native:0.57.5] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\react-native-0.57.5.aar\d02c3b21f510a1e52f11ab95fec532f8\AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.57.5] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\react-native-0.57.5.aar\d02c3b21f510a1e52f11ab95fec532f8\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\a0d898e483823679c96cf7df0cf1d3c6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\a0d898e483823679c96cf7df0cf1d3c6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6b4407203cddede948ba2fb9fc6f474e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6b4407203cddede948ba2fb9fc6f474e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\7c4d2380c7f034956b60356494635884\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\7c4d2380c7f034956b60356494635884\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\dcb123dbdded2656923b40bd9ba09f2d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\dcb123dbdded2656923b40bd9ba09f2d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a61d0fab24034f39033d94e33ebabf00\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a61d0fab24034f39033d94e33ebabf00\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:22:5-26:19
 MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6f3bbe37a06bcd59f91df074d433e4df\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6f3bbe37a06bcd59f91df074d433e4df\AndroidManifest.xml:11:5-20
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\7f4a083fa6ee5ed8f14c806793b66dc7\AndroidManifest.xml:2:3-17
@@ -97,10 +124,34 @@ uses-sdk
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.57.5] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\react-native-0.57.5.aar\d02c3b21f510a1e52f11ab95fec532f8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.57.5] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\react-native-0.57.5.aar\d02c3b21f510a1e52f11ab95fec532f8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bfdeb594c36ff88ce35de2edc5c5dc27\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bfdeb594c36ff88ce35de2edc5c5dc27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\a0d898e483823679c96cf7df0cf1d3c6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\a0d898e483823679c96cf7df0cf1d3c6\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\efcc9a23c94e40e6b163feecbacef8b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\efcc9a23c94e40e6b163feecbacef8b7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6b4407203cddede948ba2fb9fc6f474e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\6b4407203cddede948ba2fb9fc6f474e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\7c4d2380c7f034956b60356494635884\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\7c4d2380c7f034956b60356494635884\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\a3ede70328e85e2c6229a940881b3edd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\a3ede70328e85e2c6229a940881b3edd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\dcb123dbdded2656923b40bd9ba09f2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\dcb123dbdded2656923b40bd9ba09f2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a61d0fab24034f39033d94e33ebabf00\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a61d0fab24034f39033d94e33ebabf00\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a8a8bd9318275f614e44d45aecd7da0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a8a8bd9318275f614e44d45aecd7da0f\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\54ed245c72d2720beec248cfb2c58870\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\54ed245c72d2720beec248cfb2c58870\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\50193e23ce1cb84e282e8d1d6b9bc783\AndroidManifest.xml:20:5-44
@@ -111,6 +162,8 @@ MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Venoth\.gra
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4bb59c45df4840029506a8416b1dc263\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7cf34d8ed9b779e384ce52c641f5f57e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7cf34d8ed9b779e384ce52c641f5f57e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d64ff019d7d4dddd788daf81770d68dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\d64ff019d7d4dddd788daf81770d68dd\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\be9456e81701164b5676c1104b714a75\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\be9456e81701164b5676c1104b714a75\AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\04063822a7e33a9ddcb223e083eb73a5\AndroidManifest.xml:5:5-7:41
@@ -145,6 +198,36 @@ INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\ap
 		INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\28c7815e62e8d6b12cf6f2b6184d2b2f\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Venoth\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\c3ecc27da6f1af1ea184ccdb4e5443f5\AndroidManifest.xml:24:13-58
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
