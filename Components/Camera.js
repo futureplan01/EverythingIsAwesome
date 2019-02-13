@@ -12,11 +12,12 @@ import {
 export default class Camera extends React.Component {
   render() {
     return (
-      <View>
+      <View style={styles.container}>
         <RNCamera
           ref={ref => {
             this.camera = ref;
           }}
+          style={styles.preview}
           type={RNCamera.Constants.Type.back}
           flashMode={RNCamera.Constants.FlashMode.on}
           permissionDialogTitle={"Permission to use camera"}
