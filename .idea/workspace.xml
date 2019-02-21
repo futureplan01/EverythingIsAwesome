@@ -2,402 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a71d7fcb-a8e1-4644-be8a-c8596f923f29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$bool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$integer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/brentvatne/react/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$bool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$integer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/core/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ext/okhttp/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/source/dash/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/source/hls/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/source/smoothstreaming/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$bool.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$color.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$dimen.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$integer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$style.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/classes/debug/com/google/android/exoplayer2/ui/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/10.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/11.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/14.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/15.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/16.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/18.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/19.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/20.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/22.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/26.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/28.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/30.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/37.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/38.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/39.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/40.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/41.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/42.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/43.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/44.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/45.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/46.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/47.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/48.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/49.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/50.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/51.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/52.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/53.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/54.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/55.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/56.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/57.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/58.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/59.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/60.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/61.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/62.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/63.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/64.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/65.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/66.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/67.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/68.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/69.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/70.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/71.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/72.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/73.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/74.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/75.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/76.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/arch/lifecycle/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/compat/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreui/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/coreutils/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/exifinterface/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/fragment/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/graphics/drawable/animated/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/mediacompat/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v4/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$anim.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/android/support/v7/appcompat/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/BuildConfig.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/MainActivity$1.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/MainActivity.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/MainApplication$1.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/MainApplication.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$anim.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$mipmap.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R$xml.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/awesome/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/brentvatne/react/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/backends/pipeline/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/backends/pipeline/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/backends/pipeline/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/drawee/backends/pipeline/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/fbcore/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/imagepipeline/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/imagepipeline/backends/okhttp3/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/imagepipelinebase/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$anim.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R$xml.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/react/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/facebook/soloader/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/core/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ext/okhttp/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/source/dash/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/source/hls/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/source/smoothstreaming/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/exoplayer2/ui/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/base/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/base/license/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/common/license/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/tasks/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/tasks/license/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/vision/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/vision/common/license/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/vision/license/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/google/android/gms/vision_common/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/com/swmansion/gesturehandler/react/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/reactnative/camera/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/77/org/webkit/android_jsc/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/brentvatne/react/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/core/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ext/okhttp/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/source/dash/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/source/hls/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/source/smoothstreaming/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$attr.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$bool.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$color.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$dimen.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$drawable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$id.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$integer.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$layout.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$string.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$style.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R$styleable.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/90/com/google/android/exoplayer2/ui/R.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Components/Video.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/debug/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/gradle.properties" afterPath="$PROJECT_DIR$/android/gradle.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -412,8 +20,18 @@
       <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/android/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="836">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -432,6 +50,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/android/gradle.properties" />
       </list>
     </option>
@@ -479,35 +98,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EverythingIsAwesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EverythingIsAwesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EverythingIsAwesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="EverythingIsAwesome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -620,7 +211,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1589" y="0" width="1622" height="1811" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -735,10 +325,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/android/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="836">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding />
         </state>
       </provider>
