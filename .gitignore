@@ -5,3 +5,5 @@ npm-debug.*
 *.p12
 *.key
 *.mobileprovision
+android/app/my-release-key.keystore
+
