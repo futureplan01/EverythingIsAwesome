@@ -41,7 +41,7 @@ INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\ap
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\release\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\release\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:2:5-26
+		ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:2:5-32
 		INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\release\AndroidManifest.xml
 	android:versionName
@@ -150,7 +150,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Venoth\.gradle\cache
 		ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:19:7-38
 	android:name
 		ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:15:7-38
-activity#com.awesome.MainActivity
+activity#com.jj_is_awesome.MainActivity
 ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:20:7-29:18
 	android:label
 		ADDED from C:\Users\Venoth\Desktop\JJ_THE_BEST\EverythingIsAwesome\android\app\src\main\AndroidManifest.xml:22:9-41

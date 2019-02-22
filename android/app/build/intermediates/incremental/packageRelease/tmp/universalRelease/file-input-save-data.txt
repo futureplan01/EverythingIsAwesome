@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 22 10:30:10 EST 2019
+#Fri Feb 22 13:29:49 EST 2019
 17.baseType=DIRECTORY
 4.path=lib/x86/libprivatedata.so
 25.base=C\:\\Users\\Venoth\\Desktop\\JJ_THE_BEST\\EverythingIsAwesome\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\release\\0
