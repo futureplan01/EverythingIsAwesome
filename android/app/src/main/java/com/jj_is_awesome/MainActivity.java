@@ -1,4 +1,4 @@
-package com.awesome;
+package com.jj_is_awesome;
 
 import com.facebook.react.ReactActivity;
 import com.swmansion.gesturehandler.react.RNGestureHandlerEnabledRootView;
